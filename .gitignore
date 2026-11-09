@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.local/
+/forward-tests/
+/validation-report.json
+/build_materials.py

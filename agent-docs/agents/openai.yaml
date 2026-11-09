@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent 文档体系"
+  short_description: "为现有项目建立并维护可独立使用的 Agent 文档、决策记录与写作规范"
+  default_prompt: "使用 $agent-docs 为当前项目初始化文档体系，沿用现有约定并完成当轮技能加载和内容验收。"
